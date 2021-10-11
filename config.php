@@ -9,7 +9,7 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Riwaj Sapkota',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/riwajsapkota',
