@@ -4,16 +4,16 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Some thoughts on business, tech, and spirituality',
+        'description' => 'Personal Blog.',
         'image' => 'default-share.png',
     ],
     'owner' => [
         'name' => 'John Doe',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'twitter' => 'https://twitter.com/riwajsapkota',
+        'github' => 'https://github.com/riwajsapkota',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
