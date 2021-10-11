@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'Some thoughts on business, tech, and spirituality',
+        'title' => 'Personal blog - Riwaj Sapkota',
         'description' => 'Personal Blog.',
         'image' => 'default-share.png',
     ],
